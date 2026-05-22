@@ -1,0 +1,10 @@
+*.pkl
+*.h5
+*.zip
+*.csv
+*.data-00000-of-00001
+*.index
+best_distilbert_improved/
+code/code/
+.ipynb_checkpoints/
+__pycache__/
